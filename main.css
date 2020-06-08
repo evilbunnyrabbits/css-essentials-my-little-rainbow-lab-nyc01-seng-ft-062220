@@ -27,8 +27,13 @@ div {
 }
 
 #lightblue {
-  border-top-color: blue;
+  border-top-color:lightblue;
 }
+
+#darkblue {
+  border-top-color: darkblue;
+}
+
 
 #purple {
   border-top-color: purple;
